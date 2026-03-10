@@ -110,12 +110,4 @@ recipe-gallery
 A video demonstration of the project is available here:
 
 **YouTube Video:**
-PASTE YOUR VIDEO LINK HERE
 
-The video demonstrates:
-
-* The React application running in the browser
-* Rendering of recipe cards
-* Explanation of how `map()` is used
-* Demonstration of normal test cases
-* Demonstration of edge test cases
