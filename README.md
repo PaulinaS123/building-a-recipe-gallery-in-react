@@ -105,9 +105,7 @@ recipe-gallery
 
 ---
 
-## Demonstration
-
-A video demonstration of the project is available here:
+## Video Demonstration
 
 **YouTube Video:**
 
