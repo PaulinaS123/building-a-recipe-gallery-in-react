@@ -39,7 +39,7 @@ The project was created using **Vite + React** and developed in **Visual Studio 
 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR-USERNAME/recipe-gallery.git
+git clone (https://github.com/PaulinaS123/building-a-recipe-gallery-in-react.git)
 ```
 
 2. Navigate to the project folder
